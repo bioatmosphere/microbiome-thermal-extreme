@@ -1,3 +1,3 @@
-# Microbiome and Thermal Extreme(MTE)
+# Thermal Extreme, Microbiome, and Decomposition (TMD)
 
-Elucidate mechanisms underlying microbiome resilience to perturbations of thermal extremes.
+Elucidate mechanisms underlying microbiome resilience in response to perturbations of thermal extremes.
