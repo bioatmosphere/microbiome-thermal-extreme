@@ -1,3 +1,16 @@
-# Thermal Extreme, Microbiome, and Decomposition (TMD)
+# Thermal Extreme, Microbiome, and Decomposition (TeMD)
 
-Elucidate mechanisms underlying microbiome resilience in response to perturbations of thermal extremes.
+To elucidate mechanisms underlying microbiomes' resilience in response to perturbations of thermal extremes and to evaluate their consequences for ecosystem carbon cycling.
+
+---
+
+### data
+
+
+### input
+
+
+### output
+
+
+### manuscript
