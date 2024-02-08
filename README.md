@@ -1,4 +1,4 @@
-# Thermal Extreme, Microbiome, and Decomposition (TeMD)
+# TeMD-Thermal Extreme, Microbiome, and Decomposition
 
 To elucidate mechanisms underlying microbiomes' resilience and its loss in response to perturbations of thermal extremes and to evaluate their consequences for ecosystem carbon cycling.
 
